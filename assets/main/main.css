@@ -222,3 +222,23 @@ button {
     box-shadow: 0px 0px 10px #BA68C8;
     background-image: linear-gradient(to left, #BA68C8, #7E57C2);
 }
+
+.bannerImg-2NHyzX, .bannerImage-3KhIJ6, .animatedContainer-1NSq4T {
+    border-radius: 8px!important;
+}
+
+img {
+    border-radius: 6px;
+}
+
+.botTag-2WPJ74 {
+    border-radius: 5px!important;
+}
+
+.embedWrapper-lXpS3L {
+    border-radius: 8px;
+}
+
+.wrapper-129saQ {
+    border-radius: 20px;
+}
