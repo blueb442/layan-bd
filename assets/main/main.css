@@ -260,3 +260,11 @@ img {
 .repliedMessage-VokQwo, .repliedTextPreview-2NBljf, .repliedTextContent-1R3vnK {
     font-size: 14px!important;
 }
+
+.aboutMeBody-3GuvKk, .content-3JfFJh {
+    font-size: 14px;
+    font-weight: 400;
+}
+code {
+    border-radius: 8px;
+}
