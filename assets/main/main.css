@@ -1,0 +1,209 @@
+
+* {
+    --font-display: Ubuntu;
+    --font-primary: Ubuntu;
+    --font-headline: Ubuntu;
+}
+
+* {
+    --text-link: #5657f5;
+}
+
+* {
+    --scrollbar-thin-thumb: rgba(49, 49, 58, 0.65);
+    --scrollbar-auto-thumb: rgba(49, 49, 58, 0.65);
+    --elevation-low: rgba(255, 255, 255, 0.08);
+    --channeltextarea-background: #3c3c44;
+    --background-primary: #34343b;
+    --background-secondary: #31313a;
+    --background-secondary-alt: #2c2c33;
+    --background-tertiary: #25252b;
+    --focus-primary: #7E57C2;
+}
+
+button {
+    border-radius: 7px!important;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    border-radius: 7px;
+    background-image: linear-gradient(to bottom, #6C6AF2, #4648FB);
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+    border-radius: 7px;
+    background-image: linear-gradient(to bottom, #6C6AF2, #4648FB);
+}
+
+.lookFilled-1Gx00P.colorRed-1TFJan {
+    background-color: #FF5252!important;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan {
+    border-color: #FF5252!important;
+    color: #FF5252;
+}
+
+.progressBar-1oVG_J {
+    background-image: linear-gradient(to left, #BA68C8, #7E57C2);
+    border-radius: 9999px;
+    background-color: #5D7DFB;
+}
+
+.root-1gCeng {
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.08);
+}
+
+.messageContent-2qWWxC, .channelName-2YrOjO, .header-23xsNx, .label-22pbtT, .roleColor-rz2vM0 {
+    font-size: 15px!important;
+    font-weight: 400!important;
+}
+
+.title-eS5yk3, .textScroller-dc9_kz {
+    font-size: 13px!important;
+    font-weight: 400!important;
+}
+
+.title-29uC1r {
+    font-size: 15px!important;
+    font-weight: 500!important;
+}
+
+.activityText-yGKsKm {
+    font-weight: 400!important;
+}
+
+.container-1taM1r, .title-3qD0b- {
+    box-shadow: 0px 0px 15px 3px var(--background-secondary);
+}
+
+.content-1x5b-n {
+    border-radius: 7px;
+}
+
+.modeSelected-346R90 .content-1x5b-n, .content-1x5b-n:hover {
+    background-color: rgba(255, 255, 255, 0.08);
+}
+
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    background-color: #66BB6A;
+}
+
+.panels-j1Uci_ {
+    background-color: var(--background-secondary);
+}
+
+.container-3baos1 {
+    padding: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.username-1A8OIy {
+    font-size: 15px;
+}
+
+.scroller-1Bvpku {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    overflow: hidden!important;
+    background-color: var(--background-secondary-alt);
+    
+}
+
+.tree-2wKJdG {
+    background-color: var(--background-secondary);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.listItem-2Ig28I, .expandedFolderBackground-3ZDF05 {
+    margin-left: 0px;
+}
+
+.nickname-3M3Jfa, .headerTagNoNickname-3qrd77 {
+    font-size: 19px;
+    font-weight: 400px;
+}
+
+.menu-3sdvDG {
+    border-radius: 10px;
+}
+
+.item-1tOPte {
+    border-radius: 8px;
+}
+
+.input-cIJ7To {
+    border-radius: 8px!important;
+}
+
+.layer-v9HyYc {
+    border-radius: 12px!important;
+}
+.role-2irmRk {
+    border-radius: 10px;
+    font-weight: 400px!important;
+}
+
+.side-8zPYf6 .item-PXvHYJ {
+    border-radius: 8px!important;
+    font-weight: 400px!important;
+}
+
+.itemFilled-3llgIC {
+    border-radius: 7px!important;
+}
+
+.scrollableContainer-2NUZem {
+    border-radius: 12px!important;
+}
+
+.quickswitcher-3JagVE {
+    border-radius: 15px;
+}
+
+.input-2VB9rf {
+    border-radius: 8px;
+    background-color: var(--background-secondary-alt);
+}
+
+.result-oB0z-- {
+    border-radius: 8px!important;
+}
+
+.wrapper-2aW0bm {
+    border-radius: 7px;
+    border: none;
+}
+
+.layout-2DM8Md {
+    border-radius: 8px!important;
+    font-weight: 400;
+}
+
+.content-3QAtGj, .nameAndDecorators-5FJ2dg, .name-uJV0GL {
+    font-weight: 500!important;
+    font-size: 14px!important;
+}
+
+.activityText-OW8WYb {
+    font-weight: 400!important;
+    font-size: 12px!important;
+}
+
+.searchBarComponent-32dTOx {
+    font-weight: 500!important;
+    font-size: 14px!important;
+}
+
+.searchBar-3dMhjb {
+    border-radius: 7px;
+    font-weight: 400!important;
+    font-size: 12px!important;
+}
+.mention {
+    border-radius: 7px;
+    padding: 1px;
+}
