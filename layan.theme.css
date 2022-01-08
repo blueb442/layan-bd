@@ -1,0 +1,18 @@
+/**
+* @name Layan
+* @author blueb
+* @authorId 403390454273409028
+* @version 0.1.0
+* @description 
+* @source https://github.com/blueb442/layan-bd
+* @updateUrl https://github.com/blueb442/layan-bd/blob/main/layan.theme.css
+*/
+
+/* Main Theme File, please do not remove */
+@import url(https://blueb442.github.io/layan/assets/main/main.css);
+
+/* Ubuntu font */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap')
+
+/* Discord Custom Covers, Optional */
+@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css%27');
