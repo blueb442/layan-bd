@@ -211,3 +211,7 @@ button {
 .notDetected-33MY4s, .container-1nZlH6, .select-2fjwPw, .warning-3C2pOH, .bannerUpsellContainer-1KrLvE, .container-cMG81i {
     border-radius: 7px!important;
 }
+
+.scroller-1Bvpku {
+    overflow: scroll!important;
+}
