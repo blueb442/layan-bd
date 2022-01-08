@@ -1,8 +1,8 @@
 
 * {
-    --font-display: Ubuntu;
-    --font-primary: Ubuntu;
-    --font-headline: Ubuntu;
+    --font-display: Ubuntu, Whitney, sans-serif;
+    --font-primary: Ubuntu, Whitney, sans-serif;
+    --font-headline: Ubuntu, Whitney, sans-serif;
 }
 
 * {
@@ -246,4 +246,17 @@ img {
 .textArea-12jD-V, .slateTextArea-1Mkdgw {
     font-size: 14px!important;
     font-weight: 400!important;
+}
+
+.cooldownWrapper-3joyFc {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.content-2M3n_H {
+    font-size: 15px;
+}
+
+.repliedMessage-VokQwo, .repliedTextPreview-2NBljf, .repliedTextContent-1R3vnK {
+    font-size: 14px!important;
 }
