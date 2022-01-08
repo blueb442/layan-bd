@@ -268,3 +268,11 @@ img {
 code {
     border-radius: 8px;
 }
+
+.base-3dtUhz {
+    background-color: var(--background-secondary)!important;
+}
+
+.chat-3bRxxu {
+    border-top-left-radius: 8px;
+}
