@@ -20,10 +20,10 @@
     --focus-primary: #7E57C2;
 }
 
-.barFill-Dhkah7 {
+.barFill-Dhkah7, .barFill-2Bh7CX {
     background-image: linear-gradient(to left, #BA68C8, #7E57C2)!important;
 }
-.grabber-7sd5f5 {
+.grabber-7sd5f5, .grabber-2GQyvM {
     background-color: #BA68C8!important;
 }
 
@@ -31,7 +31,7 @@
     background-image: linear-gradient(to left, #BA68C8, #7E57C2);
 }
 
-.grabber-3mFHz2 {
+.grabber-3mFHz2, .grabber-2GQyvM {
     height: 25px;
     width: 25px;
     border-radius: 30px;
@@ -40,14 +40,14 @@
     border: none;
 }
 
-.checked-3_4uQ9 .checkbox-1ix_J3 {
+.checked-3_4uQ9 .checkbox-1ix_J3, .checked-1pZh2h .checkbox-f1HnKB  {
     background-image: linear-gradient(to left, #BA68C8, #7E57C2);
     border-color: rgba(255, 255, 255, 0.322)!important;
     border-width: 2px;
     border-radius: 6px;
 }
 
-.radioIconForeground-XwlXQN {
+.radioIconForeground-XwlXQN, .radioIconForeground-2BMavi {
     color: #6C6AF2;
 }
 
@@ -55,37 +55,37 @@ button {
     border-radius: 7px!important;
 }
 
-.lookFilled-1Gx00P.colorBrand-3pXr91 {
+.lookFilled-1Gx00P.colorBrand-3pXr91, .lookFilled-yCfaCM.colorBrand-I6CyqQ {
     border-radius: 7px;
     background-image: linear-gradient(to bottom, #6C6AF2, #4648FB);
 }
 
-.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover, .lookFilled-yCfaCM.colorBrand-I6CyqQ:hover {
     border-radius: 7px;
     background-image: linear-gradient(to bottom, #6C6AF2, #4648FB);
 }
 
-.lookFilled-1Gx00P.colorRed-1TFJan {
+.lookFilled-1Gx00P.colorRed-1TFJan, .lookFilled-yCfaCM.colorRed-rQXKgM {
     background-color: #FF5252!important;
 }
 
-.lookOutlined-3sRXeN.colorRed-1TFJan {
+.lookOutlined-3sRXeN.colorRed-1TFJan, .lookOutlined-3yKVGo.colorRed-rQXKgM {
     border-color: #FF5252!important;
     color: #FF5252;
 }
 
-.progressBar-1oVG_J {
+.progressBar-1oVG_J, .progressBar-1Tzim4 {
     background-image: linear-gradient(to left, #BA68C8, #7E57C2);
     border-radius: 9999px;
     background-color: #5D7DFB;
 }
 
-.root-1gCeng {
+.root-1gCeng, .root-g14mjS {
     border-radius: 10px;
     border: 2px solid rgba(255, 255, 255, 0.08);
 }
 
-.messageContent-2qWWxC, .channelName-2YrOjO, .header-23xsNx, .label-22pbtT, .roleColor-rz2vM0 {
+.messageContent-2qWWxC, .messageContent-2t3eCI, .channelName-2YrOjO, .channelName-3KPsGw, .header-23xsNx, .label-22pbtT, , .roleColor-rz2vM0, roleColor-nA7BqX {
     font-size: 15px!important;
     font-weight: 400!important;
 }
