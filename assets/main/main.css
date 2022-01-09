@@ -358,3 +358,333 @@ code {
 .tooltipPointer-3ZfirK {
     display: none;
 }
+
+.sprite-2iCowe {
+    background-image: url("https://blueb442.github.io/layan-bd/assets/allinone-sprite.png");
+    background-position: 50%;
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 22px;
+    display: block;
+}
+
+/* Begin Localized Stuff */
+
+button[aria-label="Open GIF picker"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Open sticker picker"] {
+    display: none;
+    color: transparent;
+}
+
+/* Dansk */
+
+button[aria-label="Åbn sticker-vælgeren"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Åbn GIF-vælger"] {
+    display: none;
+    color: transparent;
+}
+
+/* Deutsch */
+
+button[aria-label="Stickerauswahl öffnen"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF-Auswahl öffnen"] {
+    display: none;
+    color: transparent;
+}
+
+/* Espanol */
+
+button[aria-label="Abrir selector de pegatinas"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Abrir selector de GIFs"] {
+    display: none;
+    color: transparent;
+}
+
+/* Francais */
+
+button[aria-label="Ouvrir le sélecteur d'autocollant"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Ouvrir l'onglet des GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Hrvatski */
+
+button[aria-label="Otvori picker za naljepnice"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Otvori GIF picker"] {
+    display: none;
+    color: transparent;
+}
+
+/* Italiano */
+
+button[aria-label="Apri selettore di adesivi"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Apri selettore di GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Lietuviskai */
+
+button[aria-label="Atidaryti lipdukų paieškos priemonę"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Atidaryti GIF paieškos priemonę"] {
+    display: none;
+    color: transparent;
+}
+
+/* Magyar */
+
+button[aria-label="Matricaválogató megnyitása"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF válogató megnyitása"] {
+    display: none;
+    color: transparent;
+}
+
+/* Nederlands */
+
+button[aria-label="Stickerkiezer openen"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF-kiezer openen"] {
+    display: none;
+    color: transparent;
+}
+
+/* Norsk */
+
+button[aria-label="Åpne klistremerkevelger"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Åpne GIF-velger"] {
+    display: none;
+    color: transparent;
+}
+
+/* Polski */
+
+button[aria-label="Otwórz wybór naklejek"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Otwórz wybieranie GIF-ów"] {
+    display: none;
+    color: transparent;
+}
+
+/* Portuges do Brasil */
+
+button[aria-label="Abrir selecionador de figurinhas"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Abrir o selecionador de GIFs"] {
+    display: none;
+    color: transparent;
+}
+
+/* Romana */
+
+button[aria-label="Deschide selectorul de stickere"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Deschide selectorul de GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Suomi */
+
+button[aria-label="Avaa tarravalitsin"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Avaa GIF-valitsin"] {
+    display: none;
+    color: transparent;
+}
+
+/* Svenska */
+
+button[aria-label="Öppna dekalväljare"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Öppna GIF-väljare"] {
+    display: none;
+    color: transparent;
+}
+
+/* Tieng Viet */
+
+button[aria-label="Mở trình chọn sticker"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Mở trình chọn ảnh GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Turkce */
+
+button[aria-label="Çıkartma seçiciyi aç"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF seçiciyi aç"] {
+    display: none;
+    color: transparent;
+}
+
+/* Cestina */
+
+button[aria-label="Otevřít výběr samolepek"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Otevřít okno s GIFy"] {
+    display: none;
+    color: transparent;
+}
+
+/* Eyynvilka */
+
+button[aria-label="Άνοιγμα επιλογέα αυτοκόλλητων"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Άνοιγμα επιλογέα GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* български */
+
+button[aria-label="Отвори избиране на стикери"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Отвори избиране на GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* PYCCknn */
+
+button[aria-label="Открыть меню выбора стикеров"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Открыть меню GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Ykpaihcbka */
+
+button[aria-label="Відкрити програму вибору стікерів"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="Відкрити програму вибору GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="स्टीकर पिकर खोलें"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF पिकर खोलें"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="เปิดตัวเลือกสติกเกอร์"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="เปิดตัวเลือก GIF"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="打开贴纸选取器"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="打开 GIF 选取器"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="スタンプピッカーを開く"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIFピッカーを開く"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="開啟貼圖選取器"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="開啟 GIF 選取器"] {
+    display: none;
+    color: transparent;
+}
+
+/* Another Language */
+
+button[aria-label="스티커 선택기 열기"] {
+    display: none;
+    color: transparent;
+}
+button[aria-label="GIF 선택기 열기"] {
+    display: none;
+    color: transparent;
+}
+
+/* End Localized Stuff */
