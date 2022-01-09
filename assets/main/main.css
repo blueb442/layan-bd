@@ -696,4 +696,79 @@ button[aria-label="GIF 선택기 열기"] {
 
 /* End Localized Stuff */
 
+.sidebar-CFHs9e .side-8zPYf6 .themed-OHr7kt {
+    font-size: 14px!important;
+    font-weight: 400;
+}
 
+.premiumInlineNotice-pHlw4O {
+    border-radius: 8px;
+}
+
+.swatch-2XEFyZ {
+    border-radius: 5px;
+}
+
+.connection-1fbD7X, .card-3AyPWq .outer-1AjyKL .padded-302COx, .preview-2Vkbi6 {
+    border-radius: 8px!important;
+}
+
+.checkbox-1ix_J3 {
+    border-radius: 7px!important;
+    border-width: 2px;
+}
+
+.grabber-3mFHz2 {
+    margin-top: -10px;
+    height: 20px;
+    width: 20px;
+}
+
+.title-31JmR4, .bd-setting-title {
+    font-size: 15px!important;
+}
+
+.description-3_Ncsb, .bd-setting-note, .labelDescriptor-1PqHgD {
+    font-size: 14px!important;
+}
+
+.itemFilled-3llgIC .radioBar-bMNUI- .info-3LOr12 .title-3BE6m5 {
+    font-size: 15px!important;
+    font-weight: 400!important;
+}
+
+.defaultKeybind-2coG8W, .description-1W0DiL, .size16-1P40sf, .value-3EB36z {
+    font-size: 15px!important;
+    line-height: 1.2;
+}
+
+#floating-editor-window {
+    border-radius: 8px;
+}
+
+.formNotice-2_hHWR {
+    border-radius: 8px;
+}
+
+.bd-addon-card {
+    border-radius: 8px!important;
+}
+
+.bd-description {
+    font-size: 13px!important;
+}
+
+.bd-controls .bd-addon-button {
+    margin-left: 3.5px;
+}
+
+.info-1VyQPT::before {
+    text-transform: none;
+    content: "Layan (BD) by blueb442";
+    font-size: 13px;
+    color: var(--text-muted);
+}
+
+.membershipDialogHouse3-15OBIQ {
+    border-radius: 8px!important;
+}
