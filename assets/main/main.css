@@ -20,6 +20,30 @@
     --focus-primary: #7E57C2;
 }
 
+.barFill-23-gu- {
+    background-image: linear-gradient(to left, #BA68C8, #7E57C2);
+}
+
+.grabber-3mFHz2 {
+    height: 25px;
+    width: 25px;
+    border-radius: 30px;
+    margin-left: -8px;
+    background-color: #BA68C8;
+    border: none;
+}
+
+.checked-3_4uQ9 .checkbox-1ix_J3 {
+    background-image: linear-gradient(to left, #BA68C8, #7E57C2);
+    border-color: rgba(255, 255, 255, 0.322)!important;
+    border-width: 2px;
+    border-radius: 6px;
+}
+
+.radioIconForeground-XwlXQN {
+    color: #6C6AF2;
+}
+
 button {
     border-radius: 7px!important;
 }
@@ -322,27 +346,4 @@ code {
 
 .tooltipPointer-3ZfirK {
     display: none;
-}
-.barFill-23-gu- {
-    background-image: linear-gradient(to left, #BA68C8, #7E57C2);
-}
-
-.grabber-3mFHz2 {
-    height: 25px;
-    width: 25px;
-    border-radius: 30px;
-    margin-left: -8px;
-    background-color: #BA68C8;
-    border: none;
-}
-
-.checked-3_4uQ9 .checkbox-1ix_J3 {
-    background-image: linear-gradient(to left, #BA68C8, #7E57C2);
-    border-color: rgba(255, 255, 255, 0.322)!important;
-    border-width: 2px;
-    border-radius: 6px;
-}
-
-.radioIconForeground-XwlXQN {
-    color: #6C6AF2;
 }
