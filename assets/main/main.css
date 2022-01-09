@@ -809,3 +809,97 @@ button[aria-label="GIF 선택기 열기"] {
 .emojiSection-3Fb9ix .size14-e6ZScH {
     font-size: 14px!important;
 }
+
+.focused-3afm-j, .focused-3afm-j {
+    background-image: linear-gradient(to bottom, #6C6AF2, #4648FB);
+}
+
+.layer-v9HyYc, .messagesPopoutWrap-1MQ1bW, .recentMentionsPopout-3rCiI6 {
+    border-radius: 8px!important;
+}
+
+.tab-ck0077 {
+    border-radius: 8px!important;
+    font-size: 14px!important;
+}
+
+.footer-3UKYOU .input-2_SIlA, .aboutMeBody-3GuvKk, .nameWrap-3Z4G_9 {
+    font-size: 13px!important;
+}
+
+.roleName-32vpEy {
+    font-size: 12px!important;
+    font-weight: 400;
+}
+
+strong, bold-36dRGB {
+    font-weight: 500;
+}
+
+.toolbar-2bjZV7 {
+    border-radius: 10px;
+    background-color: #28282ef6!important;
+}
+
+.button-qqmJ7w {
+    border-radius: 10px!important;
+}
+
+.toolbar-2bjZV7::before {
+    display: none;
+}
+
+.qwert-toast {
+    backdrop-filter: blur(0px)!important;
+    padding: 12px!important;
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+    align-self: center;
+    border-radius: 10px!important;
+    background-color: #28282ef6!important;
+}
+
+.qwert-toast-close {
+    padding-left: 5px!important;
+}
+
+.qwert-toast-icon-container {
+    margin-right: 8px;
+}
+
+.content-2wNArO {
+    font-size: 13px;
+}
+
+.popoutContainer-1MXdqN {
+    border-radius: 12px;
+    background-color: #28282ef6!important;
+}
+
+.topSection-y3p-_D, .body-r6_QPy {
+    background-color: var(--background-secondary);
+}
+
+.avatar-AvHqJA {
+    background-color: var(--background-secondary);
+    border-color: var(--background-secondary);
+}
+
+.connectedAccount-2Jb-Z0 {
+    border-radius: 8px;
+    line-height: 1.4;
+}
+
+.connectedAccountName-E1KzaT {
+    font-size: 15px!important;
+    font-weight: 400!important;
+}
+
+.listName-U3shDM {
+    font-size: 15px!important;
+    font-weight: 400!important;
+}
+
+.listRow-1iDGel {
+    border-radius: 12px;
+}
