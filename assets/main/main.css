@@ -20,6 +20,13 @@
     --focus-primary: #7E57C2;
 }
 
+.barFill-Dhkah7 {
+    background-image: linear-gradient(to left, #BA68C8, #7E57C2)!important;
+}
+.grabber-7sd5f5 {
+    background-color: #BA68C8!important;
+}
+
 .barFill-23-gu- {
     background-image: linear-gradient(to left, #BA68C8, #7E57C2);
 }
@@ -689,9 +696,4 @@ button[aria-label="GIF 선택기 열기"] {
 
 /* End Localized Stuff */
 
-.barFill-Dhkah7 {
-    background-image: linear-gradient(to left, #BA68C8, #7E57C2)!important;
-}
-.grabber-7sd5f5 {
-    background-color: #BA68C8;
-}
+
