@@ -772,3 +772,17 @@ button[aria-label="GIF 선택기 열기"] {
 .membershipDialogHouse3-15OBIQ {
     border-radius: 8px!important;
 }
+
+.menu-3sdvDG, .tooltip-2QfLtc {
+    background-color: #28282ef6!important;
+}
+
+.tooltip-2QfLtc {
+    border-radius: 13px;
+}
+
+.searchBarComponent-32dTOx, .searchBar-6Kv8R2 {
+    font-size: 13px!important;
+    text-align: center!important;
+    font-weight: 400;
+}
