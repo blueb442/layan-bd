@@ -292,6 +292,17 @@ code {
     border-radius: 8px;
 }
 
+.userPopout-xaxa6l[data-user-id="403390454273409028"] .headerText-1vVs-U::after{
+  content:"Layan (BD) Dev";
+  color: rgb(117, 115, 115);
+  font-size: 13px;
+  font-family: var(--font-display), sans-serif;
+  font-weight: 500;
+}
+.userPopout-xaxa6l[data-user-id="403390454273409028"] .headerTagDiscriminatorNoNickname-D-AYUN:after{
+  content: "" !important;
+}
+
 .base-3dtUhz {
     background-color: var(--background-secondary)!important;
 }
