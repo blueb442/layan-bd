@@ -903,3 +903,21 @@ strong, bold-36dRGB {
 .listRow-1iDGel {
     border-radius: 12px;
 }
+
+.betterMessageLinks.Popout {
+    border-radius: 10px!important;
+    background-color: #28282ef6!important;
+}
+
+#floating-window-editor, .floating-editor #bd-editor-controls {
+    background-color: #28282ef6!important;
+}
+
+.floating-window-titlebar {
+    background-color: #28282ef6!important;
+}
+
+.avatar-1BDn8e:hover {
+    transition: .1s;
+    box-shadow: 0px 0px 5px var(--background-primary);
+}
