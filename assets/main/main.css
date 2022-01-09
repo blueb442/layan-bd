@@ -688,3 +688,10 @@ button[aria-label="GIF 선택기 열기"] {
 }
 
 /* End Localized Stuff */
+
+.barFill-Dhkah7 {
+    background-image: linear-gradient(to left, #BA68C8, #7E57C2)!important;
+}
+.grabber-7sd5f5 {
+    background-color: #BA68C8;
+}
