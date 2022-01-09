@@ -1,4 +1,3 @@
-
 * {
     --font-display: Ubuntu, Whitney, sans-serif;
     --font-primary: Ubuntu, Whitney, sans-serif;
@@ -293,5 +292,9 @@ code {
 
 .item-3HknzM {
     border-radius: 7px!important;
+    font-size: 14px;
+}
+
+.embedTitle-3OXDkz, .embedAuthorName-3mnTWj {
     font-size: 14px;
 }
