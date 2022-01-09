@@ -298,3 +298,28 @@ code {
 .embedTitle-3OXDkz, .embedAuthorName-3mnTWj {
     font-size: 14px;
 }
+
+.attachedBars-tZDmyV, .replyBar-1YLQ2F {
+    background-color: var(--background-secondary-alt);
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+
+.emoji {
+    border-radius: 0px;
+}
+
+.message-2qnXI6 {
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+
+.tooltip-2QfLtc {
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 500;
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+
+.tooltipPointer-3ZfirK {
+    display: none;
+}
