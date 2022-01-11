@@ -921,3 +921,19 @@ strong, bold-36dRGB {
     transition: .1s;
     box-shadow: 0px 0px 5px var(--background-primary);
 }
+
+.messageContent-2t3eCI, .username-h_Y3Us, .channelName-3KPsGw , .topic-11NuQZ, .name-3Vmqxm, .embedAuthor-TJIHp5, .embedDescription-1DrJxZ, .embedFields-2yHGHT, .embedFooter-3dj0UE, .embedMedia-1mdWSP, .embedProvider-1GSN0c, .embedTitle-2n1pEb, .slateTextArea-27tjG0 {
+    font-size: 15px!important;
+}
+
+.channelName-3KPsGw, .topic-11NuQZ, .name-3Vmqxm {
+    font-weight: 400;
+}
+
+.slateTextArea-27tjG0 {
+    font-size: 14px!important;
+}
+
+.botTag-7aX5WZ {
+    border-radius: 5px!important;
+}
