@@ -1,7 +1,7 @@
 * {
-    --font-display: Ubuntu, Whitney, sans-serif;
-    --font-primary: Ubuntu, Whitney, sans-serif;
-    --font-headline: Ubuntu, Whitney, sans-serif;
+    --font-display: Whitney, sans-serif;
+    --font-primary: Whitney, sans-serif;
+    --font-headline: Whitney, sans-serif;
 }
 
 * {
@@ -85,24 +85,6 @@ button {
     border: 2px solid rgba(255, 255, 255, 0.08);
 }
 
-.messageContent-2qWWxC, .channelName-2YrOjO, .header-23xsNx, .label-22pbtT, .roleColor-rz2vM0 {
-    font-size: 15px!important;
-    font-weight: 400!important;
-}
-
-.title-eS5yk3, .textScroller-dc9_kz {
-    font-size: 13px!important;
-    font-weight: 400!important;
-}
-
-.title-29uC1r {
-    font-size: 15px!important;
-    font-weight: 500!important;
-}
-
-.activityText-yGKsKm {
-    font-weight: 400!important;
-}
 
 .container-1taM1r, .title-3qD0b- {
     box-shadow: 0px 0px 15px 3px var(--background-secondary);
@@ -130,10 +112,6 @@ button {
     padding-right: 8px;
 }
 
-.username-1A8OIy {
-    font-size: 15px;
-}
-
 .scroller-1Bvpku {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -150,11 +128,6 @@ button {
 
 .listItem-2Ig28I, .expandedFolderBackground-3ZDF05 {
     margin-left: 0px;
-}
-
-.nickname-3M3Jfa, .headerTagNoNickname-3qrd77 {
-    font-size: 19px;
-    font-weight: 400px;
 }
 
 .menu-3sdvDG {
@@ -174,12 +147,10 @@ button {
 }
 .role-2irmRk {
     border-radius: 10px;
-    font-weight: 400px!important;
 }
 
 .side-8zPYf6 .item-PXvHYJ {
     border-radius: 8px!important;
-    font-weight: 400px!important;
 }
 
 .itemFilled-3llgIC {
@@ -210,29 +181,12 @@ button {
 
 .layout-2DM8Md {
     border-radius: 8px!important;
-    font-weight: 400;
-}
-
-.content-3QAtGj, .nameAndDecorators-5FJ2dg, .name-uJV0GL {
-    font-weight: 500!important;
-    font-size: 14px!important;
-}
-
-.activityText-OW8WYb {
-    font-weight: 400!important;
-    font-size: 12px!important;
-}
-
-.searchBarComponent-32dTOx {
-    font-weight: 500!important;
-    font-size: 14px!important;
 }
 
 .searchBar-3dMhjb {
     border-radius: 7px;
-    font-weight: 400!important;
-    font-size: 12px!important;
 }
+
 .mention {
     border-radius: 7px;
     padding: 1px;
@@ -273,28 +227,6 @@ img {
     border-radius: 20px;
 }
 
-.textArea-12jD-V, .slateTextArea-1Mkdgw {
-    font-size: 14px!important;
-    font-weight: 400!important;
-}
-
-.cooldownWrapper-3joyFc {
-    font-size: 13px;
-    font-weight: 400;
-}
-
-.content-2M3n_H {
-    font-size: 15px;
-}
-
-.repliedMessage-VokQwo, .repliedTextPreview-2NBljf, .repliedTextContent-1R3vnK {
-    font-size: 14px!important;
-}
-
-.aboutMeBody-3GuvKk, .content-3JfFJh {
-    font-size: 14px;
-    font-weight: 400;
-}
 code {
     border-radius: 8px;
 }
@@ -302,9 +234,7 @@ code {
 .userPopout-xaxa6l[data-user-id="403390454273409028"] .headerText-1vVs-U::after{
   content:"Layan (BD) Dev";
   color: rgb(117, 115, 115);
-  font-size: 13px;
   font-family: var(--font-display), sans-serif;
-  font-weight: 500;
 }
 .userPopout-xaxa6l[data-user-id="403390454273409028"] .headerTagDiscriminatorNoNickname-D-AYUN:after{
   content: "" !important;
@@ -318,27 +248,12 @@ code {
     border-top-left-radius: 8px;
 }
 
-.label-22pbtT {
-    font-size: 13px!important;
-    font-weight: 400;
-}
-
-.text-1y-e8- {
-    font-size: 13px!important;
-    font-weight: 400;
-}
-
 .peopleColumn-29fq28 {
     background-color: var(--background-primary);
 }
 
 .item-3HknzM {
     border-radius: 7px!important;
-    font-size: 14px;
-}
-
-.embedTitle-3OXDkz, .embedAuthorName-3mnTWj {
-    font-size: 14px;
 }
 
 .attachedBars-tZDmyV, .replyBar-1YLQ2F {
@@ -358,7 +273,6 @@ code {
 .tooltip-2QfLtc {
     border-radius: 8px;
     font-size: 13px;
-    font-weight: 500;
     box-shadow: 0px 0px 5px var(--background-secondary-alt);
 }
 
@@ -696,11 +610,6 @@ button[aria-label="GIF 선택기 열기"] {
 
 /* End Localized Stuff */
 
-.sidebar-CFHs9e .side-8zPYf6 .themed-OHr7kt {
-    font-size: 14px!important;
-    font-weight: 400;
-}
-
 .premiumInlineNotice-pHlw4O {
     border-radius: 8px;
 }
@@ -724,21 +633,7 @@ button[aria-label="GIF 선택기 열기"] {
     width: 20px;
 }
 
-.title-31JmR4, .bd-setting-title {
-    font-size: 15px!important;
-}
-
-.description-3_Ncsb, .bd-setting-note, .labelDescriptor-1PqHgD {
-    font-size: 14px!important;
-}
-
-.itemFilled-3llgIC .radioBar-bMNUI- .info-3LOr12 .title-3BE6m5 {
-    font-size: 15px!important;
-    font-weight: 400!important;
-}
-
 .defaultKeybind-2coG8W, .description-1W0DiL, .size16-1P40sf, .value-3EB36z {
-    font-size: 15px!important;
     line-height: 1.2;
 }
 
@@ -754,10 +649,6 @@ button[aria-label="GIF 선택기 열기"] {
     border-radius: 8px!important;
 }
 
-.bd-description {
-    font-size: 13px!important;
-}
-
 .bd-controls .bd-addon-button {
     margin-left: 3.5px;
 }
@@ -765,7 +656,6 @@ button[aria-label="GIF 선택기 열기"] {
 .info-1VyQPT::before {
     text-transform: none;
     content: "Layan (BD) by blueb442";
-    font-size: 13px;
     color: var(--text-muted);
 }
 
@@ -782,32 +672,11 @@ button[aria-label="GIF 선택기 열기"] {
 }
 
 .searchBarComponent-32dTOx, .searchBar-6Kv8R2 {
-    font-size: 13px!important;
     text-align: center!important;
-    font-weight: 400;
-}
-
-.usernameContainer-1fp4nu, .nameTag-3uD-yy {
-    font-size: 13px!important;
-}
-
-.username-2b1r56.username-31C1TQ, .subtext-24R4-w {
-    font-size: 14px!important;
-}
-
-.text-3MU_QQ {
-    font-size: 13px!important;
 }
 
 .container-1D34oG {
     border-top-left-radius: 8px;
-}
-
-.emojiName-27Bjxw {
-    font-size: 14px!important;
-}
-.emojiSection-3Fb9ix .size14-e6ZScH {
-    font-size: 14px!important;
 }
 
 .focused-3afm-j, .focused-3afm-j {
@@ -820,20 +689,6 @@ button[aria-label="GIF 선택기 열기"] {
 
 .tab-ck0077 {
     border-radius: 8px!important;
-    font-size: 14px!important;
-}
-
-.footer-3UKYOU .input-2_SIlA, .aboutMeBody-3GuvKk, .nameWrap-3Z4G_9 {
-    font-size: 13px!important;
-}
-
-.roleName-32vpEy {
-    font-size: 12px!important;
-    font-weight: 400;
-}
-
-strong, bold-36dRGB {
-    font-weight: 500;
 }
 
 .toolbar-2bjZV7 {
@@ -867,10 +722,6 @@ strong, bold-36dRGB {
     margin-right: 8px;
 }
 
-.content-2wNArO {
-    font-size: 13px;
-}
-
 .popoutContainer-1MXdqN {
     border-radius: 12px;
     background-color: #28282ef6!important;
@@ -888,16 +739,6 @@ strong, bold-36dRGB {
 .connectedAccount-2Jb-Z0 {
     border-radius: 8px;
     line-height: 1.4;
-}
-
-.connectedAccountName-E1KzaT {
-    font-size: 15px!important;
-    font-weight: 400!important;
-}
-
-.listName-U3shDM {
-    font-size: 15px!important;
-    font-weight: 400!important;
 }
 
 .listRow-1iDGel {
@@ -920,18 +761,6 @@ strong, bold-36dRGB {
 .avatar-1BDn8e:hover {
     transition: .1s;
     box-shadow: 0px 0px 5px var(--background-primary);
-}
-
-.messageContent-2t3eCI, .username-h_Y3Us, .channelName-3KPsGw , .topic-11NuQZ, .name-3Vmqxm, .embedAuthor-TJIHp5, .embedDescription-1DrJxZ, .embedFields-2yHGHT, .embedFooter-3dj0UE, .embedMedia-1mdWSP, .embedProvider-1GSN0c, .embedTitle-2n1pEb, .slateTextArea-27tjG0 {
-    font-size: 15px!important;
-}
-
-.channelName-3KPsGw, .topic-11NuQZ, .name-3Vmqxm {
-    font-weight: 400;
-}
-
-.slateTextArea-27tjG0 {
-    font-size: 14px!important;
 }
 
 .botTag-7aX5WZ {
