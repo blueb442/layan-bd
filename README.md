@@ -1,8 +1,8 @@
 # layan-bd
 A BetterDiscord theme based off of the Layan GTK theme
 
-![image](https://user-images.githubusercontent.com/76005739/148665596-a0869786-82f2-40df-821f-ad4b27ca2d57.png)
-![image](https://user-images.githubusercontent.com/76005739/148665601-7ca41043-757c-4b9b-a247-1459d930b15b.png)
+![image](https://user-images.githubusercontent.com/76005739/149436489-26e9c49c-ef20-44b6-a1b3-b2aed0500363.png)
+![image](https://user-images.githubusercontent.com/76005739/149436559-0bfd97bf-1085-4e2b-aabf-d20f282f4ebf.png)
 ![image](https://user-images.githubusercontent.com/76005739/148659392-6a2d77c3-7b17-4e2b-982b-d5a94c03b56f.png)
 ![image](https://user-images.githubusercontent.com/76005739/148659439-b7e21e80-fd60-4177-ad1f-5ec465e74984.png)
 ![image](https://user-images.githubusercontent.com/76005739/148664947-fda70eb3-04fe-41bd-955c-c5bec53b739a.png)
