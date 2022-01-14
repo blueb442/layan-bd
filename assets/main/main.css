@@ -933,3 +933,21 @@ button[aria-label="GIF 선택기 열기"] {
 .item-1OdjEX {
     border-radius: 5px;
 }
+
+.message-2CShn3[data-author-id="628400349979344919"] {
+    background-color: var(--info-warning-background);
+    border-radius: 10px;
+}
+
+.message-2CShn3:hover[data-author-id="628400349979344919"] {
+    background-color: var(--info-warning-background)!important;
+    border-radius: 10px;
+}
+
+.message-2CShn3[data-author-id="628400349979344919"] .header-2jRmjb {
+    display: none;
+}
+
+.message-2CShn3[data-author-id="628400349979344919"] .avatar-2e8lTP {
+    display: none;
+}
