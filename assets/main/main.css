@@ -906,3 +906,12 @@ button[aria-label="GIF 선택기 열기"] {
 .botTag-7aX5WZ {
     border-radius: 5px!important;
 }
+
+.container-6sXIoE {
+    border-bottom: none;
+    background-color: var(--background-secondary-alt);
+    border-radius: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 5px;
+}
