@@ -1,13 +1,9 @@
-* {
-    --font-display: Whitney, sans-serif;
-    --font-primary: Whitney, sans-serif;
-    --font-headline: Whitney, sans-serif;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 * {
-    --font-header: Commissioner!important;
+    --font-display: Commissioner, Whitney, sans-serif;
+    --font-primary: Whitney, sans-serif;
+    --font-headline: Commissioner, Whitney, sans-serif;
 }
 
 .scroller-3X7KbA {
