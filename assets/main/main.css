@@ -18,6 +18,14 @@
     background-color: var(--background-secondary);
 }
 
+.unreadBar-elBRZx {
+    box-shadow: 0px 0px 3px #54545fcb!important;
+}
+
+.searchBar-zdmu7v {
+    border-radius: 6px;
+}
+
 .content-1Tgc42 {
     border-radius: 7px!important;
 }
