@@ -951,3 +951,37 @@ button[aria-label="GIF 선택기 열기"] {
 .message-2CShn3[data-author-id="628400349979344919"] .avatar-2e8lTP {
     display: none;
 }
+
+.tabBarItem-30Te4- {
+    border-radius: 0px!Important;
+}
+
+.form-3gdLxP .wrapper-2SplAX {
+    border-radius: 12px;
+}
+
+img[src="/assets/60ea1d16163c13845ccf31e70fd6528b.svg"] {
+    height: 60px;
+}
+
+.info-1sUqUG {
+    color: var(--text-muted);
+    font-size: 13px;
+}
+
+.bd-settings-title {
+    color: var(--header-primary);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-family: var(--font-display)!important;
+}
+
+h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN weightSemiBold-NJexzi defaultColor-1_ajX0 defaultMarginh2-2LTaUL marginBottom20-32qID7"] {
+    margin-bottom: 20px;
+}
+
+.bd-search-wrapper {
+    border-radius: 7px;
+}
+
