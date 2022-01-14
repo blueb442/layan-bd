@@ -915,3 +915,21 @@ button[aria-label="GIF 선택기 열기"] {
     margin-right: 6px;
     margin-bottom: 5px;
 }
+
+.tooltip-14MtrL {
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px var(--background-secondary-alt);
+}
+
+.tooltipPointer-3L49xb {
+    display: none;
+}
+
+.menu-1QACrS, .tooltip-14MtrL {
+    border-radius: 8px;
+    background-color: #28282ef6!important;
+}
+
+.item-1OdjEX {
+    border-radius: 5px;
+}
