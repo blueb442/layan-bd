@@ -1005,3 +1005,48 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
 .member-2gU6Ar {
     border-radius: 7px;
 }
+
+.accountProfileCard-lbN7n- {
+    border-radius: 15px;
+}
+
+.activityPanel-9icbyU {
+    border-bottom: none;
+    background-color: var(--background-secondary-alt);
+    border-radius: 12px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 5px;
+}
+
+.gradientTop-1UBZHm {
+    display: none;
+}
+
+.textScroller-dc9_kz, button {
+    font-family: var(--font-display);
+}
+
+.icon-10cLkJ, .cover-SwJ-ck {
+    border-radius: 6px;
+}
+
+.root-24JyNP {
+    background-color: var(--background-tertiary);
+}
+
+.content-1SgpWY {
+    background-color: var(--background-secondary)!important;
+}
+
+.previewMessage-2uxBrA {
+    border-radius: 8px;
+}
+
+.preview-38jjUi {
+    border-radius: 10px;
+}
+
+.activeGame-3ncS55 {
+    border-radius: 8px;
+}
