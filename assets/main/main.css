@@ -1094,3 +1094,10 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
 .content-2a4AW9 {
     background-color: transparent!important;
 }
+.qwert-toast {
+    width: 600px;
+}
+
+.qwert-toast-close {
+    display: none;
+}
