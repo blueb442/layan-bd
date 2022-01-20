@@ -1084,3 +1084,7 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
     background-color: var(--background-secondary)!important;
     border-radius: 7px!important;
 }
+
+.platform-linux .scroller-3X7KbA, .platform-linux .chat-2ZfjoI, .platform-linux .sidebar-1tnWFu, .platform-linux .container-2cd8Mz {
+    margin-top: 0px;
+}
