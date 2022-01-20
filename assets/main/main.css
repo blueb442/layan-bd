@@ -1067,3 +1067,20 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
     background-color: #28282ef6!Important;
     border-color: transparent!Important;
 }
+.root-g14mjS {
+    background-color: var(--background-primary)!important;
+}
+.override-1sK4r0 {
+    background-color: #28282ef6!important;
+    border-radius: 7px!important;
+}
+
+.select-1Ia3hD {
+    background-color: var(--background-secondary)!important;
+    border-radius: 7px;
+}
+
+.content-2a4AW9 {
+    background-color: var(--background-secondary)!important;
+    border-radius: 7px!important;
+}
