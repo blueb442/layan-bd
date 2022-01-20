@@ -1101,3 +1101,39 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
 .qwert-toast-close {
     display: none;
 }
+.content-2a4AW9 {
+    background-color: var(--background-primary)!important;
+}
+
+.container-3EtAkD, .container-3jbRo5 {
+    border-radius: 7px;
+}
+
+.tabBarItem-3nPo4Z {
+    border-radius: 0px!important;
+}
+
+.previewContainer-1xQAsw .theme-light {
+    display: none!important;
+}
+
+.previewContainer-1xQAsw {
+    border-radius: 7px;
+}
+
+.stickyHeaderElevated-dNSSrJ {
+    padding-bottom: 0px;
+}
+
+.container-20TyK0 {
+    border-radius: 12px;
+    background-color: #28282ef6!important;
+}
+
+.scroller-1ox3I2 {
+    background-color: var(--background-secondary)!important;
+}
+
+.content-2a4AW9 {
+    background-color: transparent!important;
+}
