@@ -6,9 +6,12 @@
     --font-headline: Commissioner, Whitney, sans-serif;
 }
 
+.scrollerInner-2PPAp2 {
+    background-color: var(--background-primary)!important;
+}
+
 .scroller-3X7KbA {
     margin-bottom: 5px;
-
     background-color: var(--background-secondary-alt);
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
