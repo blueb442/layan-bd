@@ -1,9 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap);
 
 * {
-    --font-display: Commissioner, Whitney, sans-serif;
-    --font-primary: Whitney, sans-serif;
-    --font-headline: Commissioner, Whitney, sans-serif;
+    --font-display: Commissioner, Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    --font-headline: Commissioner, Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif; 
 }
 
 .scrollerInner-2PPAp2 {
