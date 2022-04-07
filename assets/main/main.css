@@ -1154,3 +1154,19 @@ h2[class="bd-settings-title h2-2gWE-o title-3sZWYQ size16-14cGz5 height20-mO2eIN
     border-radius: 7px!important;
 }
 
+.tabBarItem-2aZfB8 {
+    border-radius: 0px!important;
+}
+
+.embedWrapper-1MtIDg {
+    border-radius: 12px;
+    border: 3px solid;
+}
+
+.listRow-3v94Wr {
+    border-radius: 7px;
+}
+
+.imageWrapper-oMkQl4.embedWrapper-1MtIDg {
+    border: 3px solid rgba(255, 255, 255, 0.11)!important;
+}
